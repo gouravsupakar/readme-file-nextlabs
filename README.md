@@ -1,1 +1,4 @@
-# readme-file-nextlabs
+answer to question c part 2:-
+
+I will Use HTTPS to securely transfer data between the user's browser and your server. This ensures that the data is encrypted during transit.Encrypt the data stored on your server using robust encryption algorithms. Store sensitive information such as bank statements in an encrypted format.Implement a secure user authentication system to ensure that only authorized users can access their data.Implement monitoring systems to detect unusual activities or potential security breaches. Set up alerts for suspicious activities.Regularly back up encrypted data and have a robust disaster recovery plan in case of unforeseen circumstances.
+By following these best practices, you can ensure that user data, including bank statements, is securely encrypted and stored, providing a high level of data protection and privacy.
